@@ -1,4 +1,3 @@
-JSON
 {
   "name": "pfg-node-app",
   "version": "1.0.0",
@@ -11,3 +10,4 @@ JSON
     "express": "^4.19.2"
   }
 }
+
