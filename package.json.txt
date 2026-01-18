@@ -1,0 +1,13 @@
+JSON
+{
+  "name": "pfg-node-app",
+  "version": "1.0.0",
+  "description": "Mi primera app Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
